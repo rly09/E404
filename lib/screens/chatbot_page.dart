@@ -23,7 +23,7 @@ class _ChatbotScreenState extends State<ChatbotScreen> {
   late stt.SpeechToText _speech;
   bool _isListening = false;
 
-  static const String _geminiApiKey = "AIzaSyAJUEPYaU8h30agKiKX2Bzf1qU7gx0sXi8";
+  static const String _geminiApiKey = "AIzaSyB0WvXuqwJrDB_HOqs6OVXXxHrZkyX8r4Y";
 
   @override
   void initState() {

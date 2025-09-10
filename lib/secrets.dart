@@ -1,3 +1,3 @@
 class AppSecrets {
-  static const String geminiApiKey = "AIzaSyAJUEPYaU8h30agKiKX2Bzf1qU7gx0sXi8"; // replace with real key
+  static const String geminiApiKey = "AIzaSyB0WvXuqwJrDB_HOqs6OVXXxHrZkyX8r4Y"; // replace with real key
 }
