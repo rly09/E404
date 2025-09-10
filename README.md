@@ -29,7 +29,9 @@ Instead of wasting hours scrolling through pages, PDF Brain extracts the key poi
 ---
 
 ## 📸 Screenshots
-(Add screenshots of your app here, if you have any)
+![Alt text](assets/screenshots/screenshot1.jpg)
+![Alt text](assets/screenshots/screenshot2.jpg)
+![Alt text](assets/screenshots/screenshot3.jpg)
 
 ---
 
