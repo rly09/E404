@@ -15,10 +15,8 @@ Instead of wasting hours scrolling through pages, PDF Brain extracts the key poi
 ---
 
 ## 🛠 Tech Stack
-- *Frontend*: [React / Flutter / HTML-CSS-JS] (replace with what you used)  
-- *Backend*: Node.js / Python (replace with your backend)  
-- *Database*: Supabase / MongoDB / PostgreSQL (if applicable)  
-- *Other*: OpenAI / NLP libraries (if applicable)  
+- *Frontend*: [Flutter] 
+- *Other*: Gemini API
 
 ---
 
@@ -39,5 +37,5 @@ Instead of wasting hours scrolling through pages, PDF Brain extracts the key poi
 
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/pdf-brain.git
+git clone https://github.com/rly09/E404.git
 cd pdf-brain
