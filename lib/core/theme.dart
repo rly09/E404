@@ -87,7 +87,7 @@ class AppTheme {
       titleTextStyle: appBarTitleStyle(Brightness.light),
       centerTitle: true,
     ),
-    cardTheme: CardTheme(
+    cardTheme: CardThemeData(
       color: lightCard,
       elevation: 6,
       shadowColor: lightPrimary.withOpacity(0.25),
@@ -141,7 +141,7 @@ class AppTheme {
       titleTextStyle: appBarTitleStyle(Brightness.dark),
       centerTitle: true,
     ),
-    cardTheme: CardTheme(
+    cardTheme: CardThemeData(
       color: darkCard,
       elevation: 6,
       shadowColor: darkPrimary.withOpacity(0.3),
